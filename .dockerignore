@@ -1,0 +1,6 @@
+.data
+.git
+.dockerignore
+.byebug_history
+/log/*
+/tmp/*
